@@ -1,0 +1,22 @@
+{
+  "name": "site_cabinet",
+  "version": "1.0.0",
+  "description": "Site Cabinet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalebHet/site_cabinet.git"
+  },
+  "author": "Clément NERESTAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalebHet/site_cabinet/issues"
+  },
+  "homepage": "https://github.com/SalebHet/site_cabinet#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
